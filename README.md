@@ -1,2 +1,4 @@
 # Personal-Projects
-Python
+GBM, Vasicek Model Simulations
+RREF Calculator
+Gaussian Primes Plot
