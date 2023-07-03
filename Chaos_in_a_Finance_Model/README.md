@@ -11,3 +11,5 @@ Derivation:
 	where b is the cost per investment
 - Finally the rate of change of z depends on the current interest rate (which if very high will increase and if very low will decrease) so it is inversely proportional to x, and it also varies inversely with the current price for similar reasons. We therefore can illustrate the rate of change of prices as $$\dot z = -x-cz$$
 	where c is the elasticity of demand
+
+See code to illustrate the relationship. See bifurcation diagrams for x, y, z against savings amount.
