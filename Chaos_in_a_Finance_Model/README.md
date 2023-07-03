@@ -1,4 +1,5 @@
 Chaos in a Finance Model
+
 We describe how to derive a dynamic model of finance composed of the sub-blocks production, money, stock and labour force. The finance system model describes the evolution of x (the interest rate), y (the investment demand) and z (the price index).
 - Note that factors that affect x are surplus between investment and savings and structural adjustment from prices (adjusts the country's economic structure).
 - The rate of change of y should be proportional to the rate of investment and inversely proportional to the cost of investment and interest rates.
