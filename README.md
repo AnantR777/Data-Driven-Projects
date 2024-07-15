@@ -1,9 +1,12 @@
 ## Projects
 
-#### • Crafting Stability - Finding the Global Minimum Variance (GMV) Portfolio Among 48 U.S. Industries:
-Assessing performance of regularisation. Estimating covariance matrix from data; employing ridge and lass
-to find portfolio weights, benchmarking using evenly-weighted portfolio; applying roll-forward cross-validation
-to tune lambda in each case
+#### • Portfolio Optimisation; Bank Defaults Prediction:
+##### Portfolio optimisation:
+Assessing performance of regularisation. Estimating covariance matrix from data; employing
+ridge and lasso to find portfolio weights, benchmarking using evenly-weighted portfolio; applying roll-forward
+cross-validation to tune lambda in each case
+##### Bank defaults prediction:
+Using 4 different classification models, all hyperparamter-tuned; comparing default prediction methods
 
 #### • Algorithmic Trading of the SPTL ETF:
 Developed three long-only leveraged trading strategies based on trend-following, mean-reversion and
