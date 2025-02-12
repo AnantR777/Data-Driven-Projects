@@ -1,5 +1,16 @@
 ## Projects
 
+#### • Crude Oil Futures Analytics and Trading Support Interface
+- Developed a Python module to construct and query a dynamic data structure for Brent and WTI futures contracts,
+mapping contract naming conventions across the 3 different types
+- Implemented multi-level hashmap data structure serialisation for disk storage efficiency and millisecond-order query
+time, enhancing data retrieval processes for trading decisions
+- Constructed a Plotly Dash application for real-time visualisation, featuring intraday seasonality plots that assist in
+analysing contract price patterns; enabled robust data handling capabilities that support adding complex futures spread
+calculations to the above data structure, and other helpful visualisations to support trading decisions
+- Prepared comprehensive documentation and deployment guidelines to ensure reproducibility and scalability of the
+trading analytics platform
+
 #### • Portfolio Optimisation; Bank Defaults Prediction:
 ##### Portfolio optimisation:
 Assessing performance of regularisation. Estimating covariance matrix from data; employing
