@@ -1,0 +1,13 @@
+Instructions on running all files
+
+Have expiries, min bars datasets and python files in the same folder.
+
+Order of run:
+1. GenerateAndSerialise.py
+2. LoadAndQuery.py
+3. IntradayDashApp.py
+4. GetContractSpreads.py
+
+For 2., you can uncomment the lines at the end of the file to time the query
+For 3., open Dash app link after running the file. You can uncomment line 193 for Bonus Task 1 plot
+
